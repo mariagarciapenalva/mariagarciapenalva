@@ -4,7 +4,7 @@
 maria@github:~$ pwd
 ```
 You are 127.0.0.1!
-This is my personal repo. It is a inclusive, safe space where I share what I am up to: mainly project proposals, personal projects and academic stuff. 
+This is my personal repo. It is an inclusive, safe space where I share what I am up to: mainly project proposals, personal projects and academic stuff. 
 Please, feel free to ```$ cd ../reach-out ```. Welcome! (There is no place like 127.0.0.1!)
 
 ---
