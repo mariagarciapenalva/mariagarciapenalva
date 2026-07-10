@@ -5,6 +5,7 @@ maria@github:~$ pwd
 ```
 /home/127.0.0.1
 This is my personal repo. An inclusive, safe space where I share what I am up to: mainly project proposals, personal projects and academic stuff. 
+
 Please, feel free to ```$ cd ../reach-out ``` and say hi!. Welcome! (There is no place like 127.0.0.1!)
 
 ---
@@ -25,7 +26,9 @@ maria@github:~$ ls
 maria@github:~$ cat pronouns.txt
 ```
 She/Her/Hers · They/Them/Theirs ·
+
 Warning: I usually go by she/her, but feel comfortable with the other pronouns too!
+
 Whatever feels right in our interaction, I am comfortable with! Share yours too if you'd like :)
 
 ```bash
@@ -38,6 +41,7 @@ maria@github:~/background$ cd geology-olympiads
 maria@github:~/background/geology-olympiads$ ls -la
 ```
 total 3
+| competition | year | result | note |
 |---------|--------|--------|--------|
 | Murcia Regional Geology Olympiad | 2017 | 3rd place | Assisted National Phase in Salamanca (Spain) |
 | Murcia Regional Geology Olympiad | 2018 | 2nd place | Assisted National Phase in Segovia (Spain) |
