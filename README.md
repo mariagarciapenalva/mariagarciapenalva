@@ -3,9 +3,9 @@
 ```bash
 maria@github:~$ pwd
 ```
-You are 127.0.0.1!
-This is my personal repo. It is an inclusive, safe space where I share what I am up to: mainly project proposals, personal projects and academic stuff. 
-Please, feel free to ```$ cd ../reach-out ```. Welcome! (There is no place like 127.0.0.1!)
+/home/127.0.0.1
+This is my personal repo. An inclusive, safe space where I share what I am up to: mainly project proposals, personal projects and academic stuff. 
+Please, feel free to ```$ cd ../reach-out ``` and say hi!. Welcome! (There is no place like 127.0.0.1!)
 
 ---
 ```bash
@@ -25,13 +25,13 @@ maria@github:~$ ls
 maria@github:~$ cat pronouns.txt
 ```
 She/Her/Hers · They/Them/Theirs ·
-Warning: I usually go by she/her. But I am fluid and use they/them sometimes. Also open to other pronouns!
+Warning: I usually go by she/her, but feel comfortable with the other pronouns too!
 Whatever feels right in our interaction, I am comfortable with! Share yours too if you'd like :)
 
 ```bash
 maria@github:~$ cd background
 ```
-`geology-olympiads` `astrophysics-internship` `ALBA-Hackathon-2025` `MNHACK25-BSC` `UNED` `CCAR` `3D-STLPROJECT` `PUMPS+AI-26` `iCSC26`
+`geology-olympiads` `astrophysics-internship` `ALBA-Hackathon-2025` `MNHACK25-BSC` `UNED` `CCAR` `3D-STLPROJECT` `PUMPS+AI-26` `iCSC26` `CQA-Undergraduate-Quantum-Summer-School`
 
 ```bash
 maria@github:~/background$ cd geology-olympiads
@@ -44,32 +44,102 @@ total 3
 | Murcia Regional Geology Olympiad | 2019 | 3rd place | Schedule conflict. Didn't attend national phase |
 
 ```bash
-maria@github:~/background$ cd ../../astrophysics-internship
+maria@github:~/background$ cd ../astrophysics-internship
 maria@github:~/background/astrophysics-internship$ ls
 ```
-
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/    
 ```bash
 maria@github:~/background$ cd ../ALBA-Hackathon-2025
 ```
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/    
 ```bash
 maria@github:~/background$ cd ../MNHACK25-BSC
 ```
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/  
 ```bash
 maria@github:~/background$ cd ../UNED
 ```
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/  
 ```bash
 maria@github:~/background$ cd ../CCAR
 ```
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/  
 ```bash
 maria@github:~/background$ cd ../3D-STLPROJECT
 ```
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/  
 ```bash
 maria@github:~/background$ cd ../PUMPS+AI-26
 ```
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/  
 ```bash
 maria@github:~/background$ cd ../iCSC26
 ```
-
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/  
 
 ---
 ```bash
@@ -89,7 +159,6 @@ I am currently working on:
 
 ---
 ```bash
-ls -
 ```
 <!--
 **mariagarciapenalva/mariagarciapenalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
