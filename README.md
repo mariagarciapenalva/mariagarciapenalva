@@ -47,6 +47,7 @@ total 3
 maria@github:~/background$ cd ../astrophysics-internship
 maria@github:~/background/astrophysics-internship$ ls
 ```
+```
     ________________
  /                    \
 |   Site currently     |
@@ -55,10 +56,12 @@ maria@github:~/background/astrophysics-internship$ ls
  \____________________/
          |   |
          |   |         
-         \__/    
+          \__/
+```
 ```bash
 maria@github:~/background$ cd ../ALBA-Hackathon-2025
 ```
+```
     ________________
  /                    \
 |   Site currently     |
@@ -67,10 +70,12 @@ maria@github:~/background$ cd ../ALBA-Hackathon-2025
  \____________________/
          |   |
          |   |         
-         \__/    
+         \__/
+```
 ```bash
 maria@github:~/background$ cd ../MNHACK25-BSC
 ```
+```
     ________________
  /                    \
 |   Site currently     |
@@ -79,10 +84,12 @@ maria@github:~/background$ cd ../MNHACK25-BSC
  \____________________/
          |   |
          |   |         
-         \__/  
+         \__/
+```
 ```bash
 maria@github:~/background$ cd ../UNED
 ```
+```
     ________________
  /                    \
 |   Site currently     |
@@ -91,10 +98,12 @@ maria@github:~/background$ cd ../UNED
  \____________________/
          |   |
          |   |         
-         \__/  
+         \__/
+```
 ```bash
 maria@github:~/background$ cd ../CCAR
 ```
+```
     ________________
  /                    \
 |   Site currently     |
@@ -103,10 +112,12 @@ maria@github:~/background$ cd ../CCAR
  \____________________/
          |   |
          |   |         
-         \__/  
+         \__/
+```
 ```bash
 maria@github:~/background$ cd ../3D-STLPROJECT
 ```
+```
     ________________
  /                    \
 |   Site currently     |
@@ -115,21 +126,11 @@ maria@github:~/background$ cd ../3D-STLPROJECT
  \____________________/
          |   |
          |   |         
-         \__/  
+         \__/
+```
 ```bash
 maria@github:~/background$ cd ../PUMPS+AI-26
 ```
-    ________________
- /                    \
-|   Site currently     |
-|  under construction  |              
-|                      |
- \____________________/
-         |   |
-         |   |         
-         \__/  
-```bash
-maria@github:~/background$ cd ../iCSC26
 ```
     ________________
  /                    \
@@ -139,8 +140,22 @@ maria@github:~/background$ cd ../iCSC26
  \____________________/
          |   |
          |   |         
-         \__/  
-
+         \__/
+```
+```bash
+maria@github:~/background$ cd ../iCSC26
+```
+```
+    ________________
+ /                    \
+|   Site currently     |
+|  under construction  |              
+|                      |
+ \____________________/
+         |   |
+         |   |         
+         \__/
+``` 
 ---
 ```bash
 $ cd ../projects
