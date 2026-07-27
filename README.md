@@ -25,9 +25,7 @@ maria@github:~$ ls
 ```bash
 maria@github:~$ cat pronouns.txt
 ```
-She/Her/Hers · They/Them/Theirs ·
-
-Warning: I usually go by she/her, but feel comfortable with the other pronouns too!
+She/Her/Hers · Any pronouns · 
 
 Whatever feels right in our interaction, I am comfortable with! Share yours too if you'd like :)
 
