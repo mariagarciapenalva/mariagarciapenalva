@@ -1,4 +1,4 @@
-![banner](linkedin_banner_heat_final.png)
+![banner](banner_heat_final.png)
 ---
 ```bash
 maria@github:~$ pwd
