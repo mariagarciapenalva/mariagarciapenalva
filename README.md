@@ -1,34 +1,6 @@
 ![banner](banner_heat_final.png)
 
-```bash
-maria@github:~$ neofetch
-```
-```text
-    ╷ ╷ ╷ ╷ ╷       maria@github
-  ┌─┴─┴─┴─┴─┴─┐     ────────────
- ─┤  ░░░░░░░  ├─    Role      Physics undergrad @ UNED
- ─┤  ░ GPU ░  ├─    Focus     HPC · GPU computing · scientific computing
- ─┤  ░░░░░░░  ├─    Stack     C/C++ · CUDA · Python · Linux
-  └─┬─┬─┬─┬─┬─┘     Events    BSC MNHack7 + 8 · PUMPS+AI 26 · ALBA Hackathon
-    ╵ ╵ ╵ ╵ ╵       Also      CQA Quantum Summer School · iCSC26 (remote)
-                    Pronouns  she/her · any
-                    Status    always open to suggestions, always learning
-```
-
-```bash
-maria@github:~$ pwd
-```
-`/home/127.0.0.1`: a personal repo where I share what I'm up to: project proposals, personal projects and academic stuff. There is no place like 127.0.0.1.
-
-```bash
-maria@github:~$ whoami
-```
-María, a physics undergraduate @ UNED working at the intersection of physics, scientific computing, HPC and everything in between (and to the sides). Always open to suggestions and happy to learn new things.
-
-```bash
-maria@github:~$ cat pronouns.txt
-```
-She/Her/Hers · Any pronouns. Whatever feels right in our interaction, I'm comfortable with. Share yours too if you'd like :)
+![terminal: neofetch, pwd, whoami, cat pronouns.txt](assets/terminal.svg)
 
 ---
 
