@@ -46,9 +46,6 @@ Assembly-free FEM solver for heat transfer in heterogeneous materials, accelerat
 Strong computational and experimental leaning. Coursework includes electrodynamics, optics, electromagnetism, nuclear physics, quantum physics and cosmology, with programming and numerical methods alongside.
 </details>
 
-<details>
-<summary><code>cat ALBA-Hackathon-2025/README.md</code></summary>
-
 
 <details>
 <summary><code>cat CQA-Quantum-Summer-School/README.md</code></summary>
@@ -68,7 +65,9 @@ Co-organised by BSC, UPC and UIUC. Massively parallel systems, GPU acceleration,
 **Poster: Seismic Wavefield Reconstruction.** Extends the assembly-free GPU FEM solver to the hyperbolic wave equation in heterogeneous geological media, and asks whether a neural network can reconstruct the wavefield from the mesh.
 </details>
 
-
+<details>
+<summary><code>cat ALBA-Hackathon-2025/README.md</code></summary>
+  
 **ALBA Synchrotron Hackathon · Oct 2025 · selected participant**
 
 Team entry for Dentaid's challenge: repurpose mouthwash residues as additives for SLA 3D-printing resin.
