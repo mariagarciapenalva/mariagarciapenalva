@@ -49,8 +49,6 @@ Strong computational and experimental leaning. Coursework includes electrodynami
 <details>
 <summary><code>cat ALBA-Hackathon-2025/README.md</code></summary>
 
-<details>
-<summary><code>cat PUMPS+AI-26/README.md</code></summary>
 
 <details>
 <summary><code>cat CQA-Quantum-Summer-School/README.md</code></summary>
@@ -60,6 +58,8 @@ Strong computational and experimental leaning. Coursework includes electrodynami
 Co-hosted by the Catalonia Quantum Academy and ICFO. Foundational and applied quantum computing, with exposure to both academia and industry in the Barcelona ecosystem.
 </details>
 
+<details>
+<summary><code>cat PUMPS+AI-26/README.md</code></summary>
 
 **PUMPS+AI 2026 Summer School · BSC, Barcelona · Jul 2026**
 
